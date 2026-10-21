@@ -1,0 +1,10 @@
+
+# Personal expense exports
+expenses.json
+transactions.csv
+backup.json
+*.private.json
+
+# Environment and secret files
+.env
+.env.*
