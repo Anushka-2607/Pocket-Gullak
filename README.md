@@ -21,7 +21,7 @@ A simple, browser-based personal finance application that helps users record dai
 - HTML5
 - CSS3
 - JavaScript
-- Browser LocalStorage
+- Browser LocalStorage on user device
 - Web Speech API, where supported by the browser
 - GitHub Pages
 
