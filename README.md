@@ -21,7 +21,7 @@ A simple, browser-based personal finance application that helps users record dai
 - HTML5
 - CSS3
 - JavaScript
-- Browser LocalStorage on user device
+- Browser LocalStorage
 - Web Speech API, where supported by the browser
 - GitHub Pages
 
@@ -59,4 +59,4 @@ The application is hosted using GitHub Pages.
 
 **Anushka Babar**
 
-Developed as a personal project to explore front-end web development, voice-based interaction, browser storage, and personal expense management.
+Developed as a personal project to explore front-end web development, voice-based interaction, browser storage, and personal expense management.Pocket Gullak is a web-based expense tracker that helps users record daily expenses through voice input, categorize spending, and monitor monthly expenses.It features a round-up savings system that calculates small savings from everyday transactions, helping users build better budgeting habits and save money effortlessly.
